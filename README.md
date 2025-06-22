@@ -3,6 +3,7 @@
 Ocean Blocker is a simple and powerful tool designed to protect users from the `anticheat.ac` domain by blocking its access through:
 - The **hosts file** (DNS redirect to 127.0.0.1)
 - The **Windows Firewall** (stealthy IP-level block for all apps)
+- The **Windows Firewall** is new and as i know undetected update me if it is detected
 
 > Built with ❤️ in Python and Tkinter.  
 > Requires Administrator rights to function.
