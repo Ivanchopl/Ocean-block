@@ -28,7 +28,7 @@ Ocean Blocker is a simple and powerful tool designed to protect users from the `
 ## 🧪 How to Build It Yourself (Optional)
 
 > You only need this if you want to build the `.exe` yourself  
-> Otherwise, just download it from [Releases](#releases)
+> Otherwise, just download it from [Releases]([#releases](https://github.com/Ivanchopl/Ocean-block/releases))
 
 ### ✅ Requirements:
 - Python 3.10+  
